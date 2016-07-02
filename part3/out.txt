@@ -1,0 +1,8 @@
+Variable 'a' was not declared before.
+Variable 'a' was not declared before.
+Variable with this name(a) already exists!!!
+running
+List of variables:
+symbol: a -> type: egesz
+symbol: b -> type: egesz
+symbol: c -> type: egesz
