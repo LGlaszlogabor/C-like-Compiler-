@@ -1,0 +1,14 @@
+egesz a = 3
+beolvas a
+
+amig a==3 && a!=5 csinald
+ha a == 3
+akkor
+	kiir a
+kulonben
+	kiir 5
+vege_ha
+vege_amig
+egesz b = 2
+egesz c
+
