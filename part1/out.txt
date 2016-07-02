@@ -1,0 +1,23 @@
+[line: 1,column: 1, length: 2]if variable
+[line: 1,column: 3, length: 1]a variable
+[line: 1,column: 5, length: 2]== equality test
+[line: 1,column: 7, length: 1]1 natural number
+[line: 1,column: 9, length: 2]&& logical 'and' or 'or'
+[line: 1,column: 11, length: 1]b variable
+[line: 1,column: 13, length: 1]= equality
+[line: 1,column: 15, length: 1]2 natural number
+[line: 2,column: 1, length: 4]then variable
+[line: 3,column: 2, length: 4]alma variable
+[line: 3,column: 4, length: 1]= equality
+[line: 3,column: 6, length: 1]2 natural number
+[line: 4,column: 1, length: 5]endif variable
+[line: 5,column: 1, length: 5]while variable
+[line: 5,column: 2, length: 1]( open
+[line: 5,column: 3, length: 1]1 natural number
+[line: 5,column: 4, length: 1]) closing
+[line: 6,column: 2, length: 2]ki variable
+[line: 6,column: 4, length: 1]= equality
+[line: 6,column: 6, length: 2]ki variable
+[line: 6,column: 8, length: 1]+ operator
+[line: 6,column: 10, length: 1]2 natural number
+[line: 7,column: 1, length: 1]t variable

@@ -1,0 +1,7 @@
+if a == 1 && b = 2
+then
+	alma = 2
+endif
+while(1)
+	ki = ki + 2
+t
